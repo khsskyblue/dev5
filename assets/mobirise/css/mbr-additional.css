@@ -1272,7 +1272,7 @@ a {
   content: "";
 }
 .cid-s4vsokD1mM .modal-content {
-  background: #e43f3f;
+  background: #ff2846;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -1940,7 +1940,7 @@ a {
 .cid-s4vrAHLpBh {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #ffffff;
+  background-color: #f5f5f7;
 }
 .cid-s4vrAHLpBh .card-box {
   z-index: 10;
@@ -1957,7 +1957,7 @@ a {
 .cid-s4vrAHLpBh .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #e43f3f;
+  color: #ff2846;
   margin-bottom: 2rem;
 }
 .cid-s4vrAHLpBh .card-wrapper {
@@ -1988,7 +1988,7 @@ a {
 .cid-s4vrPSopjX .mbr-iconfont {
   display: block;
   font-size: 5rem;
-  color: #e43f3f;
+  color: #ff2846;
   margin-bottom: 2rem;
 }
 .cid-s4vrPSopjX .card-wrapper {
@@ -1999,21 +1999,58 @@ a {
 .cid-s4vrPSopjX .row {
   justify-content: center;
 }
+.cid-s4vxx0RCNr {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-s4vxx0RCNr img {
+  width: 120px;
+  margin: auto;
+}
+.cid-s4vxx0RCNr .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-s4vxx0RCNr .card {
+    max-width: 12.5%;
+  }
+}
+.cid-s4vxBDD5uy {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-s4vxBDD5uy .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-s4vxBDD5uy form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-s4vxBDD5uy form .mbr-section-btn .btn {
+  display: inline-flex;
+}
 .cid-s4qEZxQqRZ {
   padding-top: 0px;
-  background: linear-gradient(180deg, #e4e5e5, #e4e5e5);
+  background: linear-gradient(180deg, #ffffff, #e4e5e5);
 }
 .cid-s4qEZxQqRZ .wave1 {
   opacity: 0.35;
-  fill: #e43f3f;
+  fill: #ff2846;
 }
 .cid-s4qEZxQqRZ .wave2 {
-  fill: #e43f3f;
+  fill: #ff2846;
 }
 .cid-s4qCHQMCB4 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #e43f3f;
+  background-color: #ff2846;
 }
 .cid-s4qCHQMCB4 .social-row {
   display: flex;
